@@ -1,4 +1,4 @@
-# UR3 Cobot Project
+# UR3 Cobots Project
 
 Repository for my Universal Collaborative Robots Study
 
